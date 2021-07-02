@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/joycolu/git-flow/compare/v1.5.0...v1.6.0) (2021-07-02)
+
+
+### Features
+
+* 🎸 README.md 新增功能8 ([74d7d69](https://github.com/joycolu/git-flow/commit/74d7d690740643722de6df4e04ea98b4cb2b730e))
+* 🎸 README.md 新增功能9 ([19841c6](https://github.com/joycolu/git-flow/commit/19841c67a62beca9e354524d1065cf60e523a255))
+
 ## [1.5.0](https://github.com/joycolu/git-flow/compare/v1.4.0...v1.5.0) (2021-07-02)
 
 
