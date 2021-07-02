@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/joycolu/git-flow/compare/v1.6.0...v1.6.1) (2021-07-02)
+
+
+### Bug Fixes
+
+* 🐛 README.md 修改信息1 ([9f097a2](https://github.com/joycolu/git-flow/commit/9f097a2d1374e92ed035116e8971b45f23e0a8cb))
+* 🐛 REAMDE.md 修复bug ([fadfcc4](https://github.com/joycolu/git-flow/commit/fadfcc4e3736734c3cbe198a95dbf52cc5a63ccc))
+
 ## [1.6.0](https://github.com/joycolu/git-flow/compare/v1.5.0...v1.6.0) (2021-07-02)
 
 
